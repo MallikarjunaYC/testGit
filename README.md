@@ -1,1 +1,1 @@
-# testGit
+to learn how git works
